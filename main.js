@@ -1,3 +1,6 @@
+//main js file to handle action events fron index html
+
+
 document.getElementById('issueInputForm').addEventListener('submit', saveIssue);
 
 function saveIssue(e) {
